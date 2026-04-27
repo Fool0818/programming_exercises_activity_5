@@ -1,0 +1,20 @@
+Jonathan Joestar,1.75
+Joseph Joestar,2.25
+Jotaro Kujo,1.50
+Josuke Higashikata,1.80
+Giorno Giovanna,2.00
+Jolyne Cujoh,1.60
+Johnny Joestar,1.90
+Gyro Zeppeli,1.55
+Dio Brando,1.30
+Enrico Pucci,2.10
+Funny Valentine,1.70
+Kars,1.85
+Esidisi,1.65
+Wamuu,1.95
+Bruno Bucciarati,2.20
+Leone Abbacchio,1.58
+Guido Mista,1.77
+Narancia Ghirga,1.62
+Trish Una,1.88
+Rohan Kishibe,1.52
